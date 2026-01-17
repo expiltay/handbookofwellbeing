@@ -1,0 +1,833 @@
+[
+  {
+    "title": "Introduction by the Editors",
+    "start_page": 5,
+    "file": "01-introduction-by-the-editors.html",
+    "authors": [
+      "Ed Diener",
+      "Shigehiro Oishi",
+      "Louis Tay"
+    ],
+    "author_lastnames": [
+      "Diener",
+      "Oishi",
+      "Tay"
+    ]
+  },
+  {
+    "title": "From the Paleolithic to the Present: Three Revolutions in the Global History of Happiness",
+    "start_page": 8,
+    "file": "02-from-the-paleolithic-to-the-present-three-revolutions-in-the.html",
+    "authors": [
+      "Darrin M. McMahon"
+    ],
+    "author_lastnames": [
+      "McMahon"
+    ]
+  },
+  {
+    "title": "Religion and Well-being",
+    "start_page": 18,
+    "file": "03-religion-and-well-being.html",
+    "authors": [
+      "David B. Newman",
+      "Jesse Graham"
+    ],
+    "author_lastnames": [
+      "Newman",
+      "Graham"
+    ]
+  },
+  {
+    "title": "Well-Being Concepts and Components",
+    "start_page": 30,
+    "file": "04-well-being-concepts-and-components.html",
+    "authors": [
+      "William Tov"
+    ],
+    "author_lastnames": [
+      "Tov"
+    ]
+  },
+  {
+    "title": "Reevaluating the Strengths and Weaknesses of Self-Report Measures of Subjective Well-Being",
+    "start_page": 45,
+    "file": "05-reevaluating-the-strengths-and-weaknesses-of-self-report.html",
+    "authors": [
+      "Richard E. Lucas"
+    ],
+    "author_lastnames": [
+      "Lucas"
+    ]
+  },
+  {
+    "title": "Non-Traditional Measures of Subjective Well-Being and Their Validity: A Review",
+    "start_page": 56,
+    "file": "06-non-traditional-measures-of-subjective-well-being-and-their.html",
+    "authors": [
+      "Christie Napa Scollon"
+    ],
+    "author_lastnames": [
+      "Scollon"
+    ]
+  },
+  {
+    "title": "What do Subjective Well-Being Judgments Mean? Sources and Distinctions, Processes and Mechanisms",
+    "start_page": 67,
+    "file": "07-what-do-subjective-well-being-judgments-mean-sources-and.html",
+    "authors": [
+      "Michael D. Robinson",
+      "Ryan J. Klein"
+    ],
+    "author_lastnames": [
+      "Robinson",
+      "Klein"
+    ]
+  },
+  {
+    "title": "The Cornerstone of Research on Subjective Well-Being: Valid Assessment Methodology",
+    "start_page": 83,
+    "file": "08-the-cornerstone-of-research-on-subjective-well-being-valid.html",
+    "authors": [
+      "William Pavot"
+    ],
+    "author_lastnames": [
+      "Pavot"
+    ]
+  },
+  {
+    "title": "Statistical Approaches to Analyzing Well-being Data",
+    "start_page": 94,
+    "file": "09-statistical-approaches-to-analyzing-well-being-data.html",
+    "authors": [
+      "Michael Eid"
+    ],
+    "author_lastnames": [
+      "Eid"
+    ]
+  },
+  {
+    "title": "Qualitative Approaches to Culture and Well-Being",
+    "start_page": 108,
+    "file": "10-qualitative-approaches-to-culture-and-well-being.html",
+    "authors": [
+      "Neil Thin"
+    ],
+    "author_lastnames": [
+      "Thin"
+    ]
+  },
+  {
+    "title": "Cognitive Outlooks and Well-Being",
+    "start_page": 129,
+    "file": "11-cognitive-outlooks-and-well-being.html",
+    "authors": [
+      "Seth Margolis",
+      "Sonja Lyubomirsky"
+    ],
+    "author_lastnames": [
+      "Margolis",
+      "Lyubomirsky"
+    ]
+  },
+  {
+    "title": "Eudaimonia in the Contemporary Science of Subjective Well- Being: Psychological Well-Being, Self-Determination, and Meaning in Life",
+    "start_page": 145,
+    "file": "12-eudaimonia-in-the-contemporary-science-of-subjective-well.html",
+    "authors": [
+      "Samantha J. Heintzelman"
+    ],
+    "author_lastnames": [
+      "Heintzelman"
+    ]
+  },
+  {
+    "title": "Do It! Activity Theories and The Good Life",
+    "start_page": 159,
+    "file": "13-do-it-activity-theories-and-the-good-life.html",
+    "authors": [
+      "Joar Vitters\u00f8"
+    ],
+    "author_lastnames": [
+      "Vitters\u00f8"
+    ]
+  },
+  {
+    "title": "The Way is the Goal: The Role of Goal Focus for Successful Goal Pursuit and Subjective Well-Being",
+    "start_page": 177,
+    "file": "14-the-way-is-the-goal-the-role-of-goal-focus-for-successful-goal.html",
+    "authors": [
+      "Oliver J. Kaftan",
+      "Alexandra M. Freund"
+    ],
+    "author_lastnames": [
+      "Kaftan",
+      "Freund"
+    ]
+  },
+  {
+    "title": "Hedonic Adaptation and the Set Point for Subjective Well-Being",
+    "start_page": 195,
+    "file": "15-hedonic-adaptation-and-the-set-point-for-subjective-well-being.html",
+    "authors": [
+      "Maike Luhmann",
+      "Stevie Intelisano"
+    ],
+    "author_lastnames": [
+      "Luhmann",
+      "Intelisano"
+    ]
+  },
+  {
+    "title": "Well-Being, Self-Actualization, and Fundamental Motives: An Evolutionary Perspective",
+    "start_page": 220,
+    "file": "16-well-being-self-actualization-and-fundamental-motives-an.html",
+    "authors": [
+      "Douglas T. Kenrick",
+      "Jaimie Arona Krems"
+    ],
+    "author_lastnames": [
+      "Kenrick",
+      "Krems"
+    ]
+  },
+  {
+    "title": "Exploring the Associations Between Personality and Subjective Well-Being",
+    "start_page": 233,
+    "file": "17-exploring-the-associations-between-personality-and-subjective.html",
+    "authors": [
+      "Richard E. Lucas"
+    ],
+    "author_lastnames": [
+      "Lucas"
+    ]
+  },
+  {
+    "title": "Hedonomics: On Subtle Yet Significant Determinants of Happiness",
+    "start_page": 248,
+    "file": "18-hedonomics-on-subtle-yet-significant-determinants-of.html",
+    "authors": [
+      "Yanping Tu",
+      "Christopher K. Hsee"
+    ],
+    "author_lastnames": [
+      "Tu",
+      "Hsee"
+    ]
+  },
+  {
+    "title": "The Genetics of Well-being",
+    "start_page": 261,
+    "file": "19-the-genetics-of-well-being.html",
+    "authors": [
+      "Espen R\u00f8ysamb",
+      "Ragnhild Bang Nes"
+    ],
+    "author_lastnames": [
+      "R\u00f8ysamb",
+      "Nes"
+    ]
+  },
+  {
+    "title": "Neuroscience and Well-Being",
+    "start_page": 281,
+    "file": "20-neuroscience-and-well-being.html",
+    "authors": [
+      "Sanda Dolcos",
+      "Matthew Moore",
+      "Yuta Katsumi"
+    ],
+    "author_lastnames": [
+      "Dolcos",
+      "Moore",
+      "Katsumi"
+    ]
+  },
+  {
+    "title": "Stress, Development, and Well-being",
+    "start_page": 306,
+    "file": "21-stress-development-and-well-being.html",
+    "authors": [
+      "Carrie E. DePasquale",
+      "Megan R. Gunnar"
+    ],
+    "author_lastnames": [
+      "DePasquale",
+      "Gunnar"
+    ]
+  },
+  {
+    "title": "Foods, Sex, and Drugs: Appetitive Desires and Subjective Well- Being",
+    "start_page": 317,
+    "file": "22-foods-sex-and-drugs-appetitive-desires-and-subjective-well.html",
+    "authors": [
+      "Wilhelm Hofmann",
+      "Katharina Diel",
+      "Maria Seibel"
+    ],
+    "author_lastnames": [
+      "Hofmann",
+      "Diel",
+      "Seibel"
+    ]
+  },
+  {
+    "title": "Hormones and Well-being",
+    "start_page": 327,
+    "file": "23-hormones-and-well-being.html",
+    "authors": [
+      "Jessica L. Rector",
+      "Elliot M. Friedman"
+    ],
+    "author_lastnames": [
+      "Rector",
+      "Friedman"
+    ]
+  },
+  {
+    "title": "A Lifespan Perspective on Subjective Well-Being",
+    "start_page": 344,
+    "file": "24-a-lifespan-perspective-on-subjective-well-being.html",
+    "authors": [
+      "Jennifer E. Lansford"
+    ],
+    "author_lastnames": [
+      "Lansford"
+    ]
+  },
+  {
+    "title": "Gender Differences in Subjective Well-Being",
+    "start_page": 358,
+    "file": "25-gender-differences-in-subjective-well-being.html",
+    "authors": [
+      "Cassondra Batz",
+      "Louis Tay"
+    ],
+    "author_lastnames": [
+      "Batz",
+      "Tay"
+    ]
+  },
+  {
+    "title": "Race and Subjective Well-being: Critical Race Perspective and Empirical Review of Key Predictors",
+    "start_page": 373,
+    "file": "26-race-and-subjective-well-being-critical-race-perspective-and.html",
+    "authors": [
+      "Hyung Chol Yoo",
+      "Adam Y. Kim",
+      "Richard M. Lee"
+    ],
+    "author_lastnames": [
+      "Yoo",
+      "Kim",
+      "Lee"
+    ]
+  },
+  {
+    "title": "Intersection of Religion and Subjective Well-Being",
+    "start_page": 389,
+    "file": "27-intersection-of-religion-and-subjective-well-being.html",
+    "authors": [
+      "Chu Kim-Prieto",
+      "Lisa Miller"
+    ],
+    "author_lastnames": [
+      "Kim-Prieto",
+      "Miller"
+    ]
+  },
+  {
+    "title": "Married...With Children: The Science of Well-Being in Marriage and Family Life",
+    "start_page": 398,
+    "file": "28-marriedwith-children-the-science-of-well-being-in-marriage.html",
+    "authors": [
+      "S. Katherine Nelson-Coffey"
+    ],
+    "author_lastnames": [
+      "Nelson-Coffey"
+    ]
+  },
+  {
+    "title": "Work, the Work-Family Interface, and Subjective Well-being",
+    "start_page": 414,
+    "file": "29-work-the-work-family-interface-and-subjective-well-being.html",
+    "authors": [
+      "Michael Ford",
+      "Yu-Ru Wang",
+      "Yongsung Huh"
+    ],
+    "author_lastnames": [
+      "Ford",
+      "Wang",
+      "Huh"
+    ]
+  },
+  {
+    "title": "The Importance of Leisure for Subjective Well-Being",
+    "start_page": 433,
+    "file": "30-the-importance-of-leisure-for-subjective-well-being.html",
+    "authors": [
+      "Lauren Kuykendall",
+      "Lisa Boemerman",
+      "Zhaoxuan Zhu"
+    ],
+    "author_lastnames": [
+      "Kuykendall",
+      "Boemerman",
+      "Zhu"
+    ]
+  },
+  {
+    "title": "Well-being and Psychopathology: A Deep Exploration into Positive Emotions, Meaning and Purpose in Life, and Social Relationships",
+    "start_page": 447,
+    "file": "31-well-being-and-psychopathology-a-deep-exploration-into.html",
+    "authors": [
+      "Fallon R. Goodman",
+      "James D. Doorley",
+      "Todd B. Kashdan"
+    ],
+    "author_lastnames": [
+      "Goodman",
+      "Doorley",
+      "Kashdan"
+    ]
+  },
+  {
+    "title": "Subjective Well-Being and Physical Health",
+    "start_page": 472,
+    "file": "32-subjective-well-being-and-physical-health.html",
+    "authors": [
+      "Marie P. Cross",
+      "Lauren Hofschneider",
+      "Michael Grimm",
+      "Sarah D. Pressman"
+    ],
+    "author_lastnames": [
+      "Cross",
+      "Hofschneider",
+      "Grimm",
+      "Pressman"
+    ]
+  },
+  {
+    "title": "Time, Money, and Subjective Well-Being",
+    "start_page": 491,
+    "file": "33-time-money-and-subjective-well-being.html",
+    "authors": [
+      "Cassie Mogilner",
+      "Ashley Whillans",
+      "Michael I. Norton"
+    ],
+    "author_lastnames": [
+      "Mogilner",
+      "Whillans",
+      "Norton"
+    ]
+  },
+  {
+    "title": "Income and Subjective Well-Being: Review, Synthesis, and Future Research",
+    "start_page": 507,
+    "file": "34-income-and-subjective-well-being-review-synthesis-and.html",
+    "authors": [
+      "Louis Tay",
+      "Michael Zyphur",
+      "Cassondra L. Batz"
+    ],
+    "author_lastnames": [
+      "Tay",
+      "Zyphur",
+      "Batz"
+    ]
+  },
+  {
+    "title": "Beggars do not Envy Millionaires: Social Comparison, Socioeconomic Status, and Subjective Well-Being",
+    "start_page": 518,
+    "file": "35-beggars-do-not-envy-millionaires-social-comparison.html",
+    "authors": [
+      "Michael W. Kraus"
+    ],
+    "author_lastnames": [
+      "Kraus"
+    ]
+  },
+  {
+    "title": "Social Capital and Prosocial Behaviour as Sources of Well-Being",
+    "start_page": 528,
+    "file": "36-social-capital-and-prosocial-behaviour-as-sources-of-well-being.html",
+    "authors": [
+      "John F. Helliwell",
+      "Lara B. Aknin",
+      "Hugh Shiplett",
+      "Haifang Huang",
+      "Shun Wang"
+    ],
+    "author_lastnames": [
+      "Helliwell",
+      "Aknin",
+      "Shiplett",
+      "Huang",
+      "Wang"
+    ]
+  },
+  {
+    "title": "Meaning and Well-Being",
+    "start_page": 544,
+    "file": "37-meaning-and-well-being.html",
+    "authors": [
+      "Michael F. Steger"
+    ],
+    "author_lastnames": [
+      "Steger"
+    ]
+  },
+  {
+    "title": "Multiple Levels in Job Demands\u2013Resources Theory: Implications for Employee Well-being and Performance",
+    "start_page": 554,
+    "file": "38-multiple-levels-in-job-demandsresources-theory-implications.html",
+    "authors": [
+      "Arnold B. Bakker",
+      "Evangelia Demerouti"
+    ],
+    "author_lastnames": [
+      "Bakker",
+      "Demerouti"
+    ]
+  },
+  {
+    "title": "Wisdom and Well-Being",
+    "start_page": 566,
+    "file": "39-wisdom-and-well-being.html",
+    "authors": [
+      "Hannes Zacher",
+      "Ursula M. Staudinger"
+    ],
+    "author_lastnames": [
+      "Zacher",
+      "Staudinger"
+    ]
+  },
+  {
+    "title": "What\u2019s Love Got to Do With it? Romantic Relationships and Well-Being",
+    "start_page": 580,
+    "file": "40-whats-love-got-to-do-with-it-romantic-relationships-and.html",
+    "authors": [
+      "Jessica Kansky"
+    ],
+    "author_lastnames": [
+      "Kansky"
+    ]
+  },
+  {
+    "title": "Resilience and Well-Being",
+    "start_page": 604,
+    "file": "41-resilience-and-well-being.html",
+    "authors": [
+      "P.D. Harms",
+      "Lisa Brady",
+      "Dustin Wood",
+      "Anthony Silard"
+    ],
+    "author_lastnames": [
+      "Harms",
+      "Brady",
+      "Wood",
+      "Silard"
+    ]
+  },
+  {
+    "title": "Living Healthier and Longer Lives: Subjective Well-Being\u2019s Association with Better Health",
+    "start_page": 617,
+    "file": "42-living-healthier-and-longer-lives-subjective-well-beings.html",
+    "authors": [
+      "Julia K. Boehm"
+    ],
+    "author_lastnames": [
+      "Boehm"
+    ]
+  },
+  {
+    "title": "Using Multiple Methods to More Fully Understand Causal Relations: Positive Affect Enhances Social Relationships",
+    "start_page": 631,
+    "file": "43-using-multiple-methods-to-more-fully-understand-causal.html",
+    "authors": [
+      "Shannon M. Moore",
+      "Ed Diener",
+      "Kimberly Tan"
+    ],
+    "author_lastnames": [
+      "Moore",
+      "Diener",
+      "Tan"
+    ]
+  },
+  {
+    "title": "Wellbeing and Work Performance",
+    "start_page": 647,
+    "file": "44-wellbeing-and-work-performance.html",
+    "authors": [
+      "Peter Warr",
+      "Karina Nielsen"
+    ],
+    "author_lastnames": [
+      "Warr",
+      "Nielsen"
+    ]
+  },
+  {
+    "title": "Optimal Levels of Happiness",
+    "start_page": 669,
+    "file": "45-optimal-levels-of-happiness.html",
+    "authors": [
+      "Robert Biswas-Diener",
+      "Christopher W. Wiese"
+    ],
+    "author_lastnames": [
+      "Biswas-Diener",
+      "Wiese"
+    ]
+  },
+  {
+    "title": "Affective Ingredients: Recipes for Understanding How Affective States Alter Cognitive Outcomes",
+    "start_page": 679,
+    "file": "46-affective-ingredients-recipes-for-understanding-how-affective.html",
+    "authors": [
+      "Karen Gasper",
+      "Logan A. Spencer"
+    ],
+    "author_lastnames": [
+      "Gasper",
+      "Spencer"
+    ]
+  },
+  {
+    "title": "Malleability and Intentional Activities",
+    "start_page": 701,
+    "file": "47-malleability-and-intentional-activities.html",
+    "authors": [
+      "Kristin Layous"
+    ],
+    "author_lastnames": [
+      "Layous"
+    ]
+  },
+  {
+    "title": "Physical Activity Interventions: Effects on Well-Being Outcomes in Older Adults",
+    "start_page": 714,
+    "file": "48-physical-activity-interventions-effects-on-well-being-outcomes.html",
+    "authors": [
+      "Diane K. Ehlers",
+      "Elizabeth A. Salerno",
+      "Susan Agui\u00f1aga",
+      "Edward McAuley"
+    ],
+    "author_lastnames": [
+      "Ehlers",
+      "Salerno",
+      "Agui\u00f1aga",
+      "McAuley"
+    ]
+  },
+  {
+    "title": "Cultivating Subjective Well-Being through Positive Psychological Interventions",
+    "start_page": 730,
+    "file": "49-cultivating-subjective-well-being-through-positive-psychological.html",
+    "authors": [
+      "Bryant M. Stone",
+      "Acacia C. Parks"
+    ],
+    "author_lastnames": [
+      "Stone",
+      "Parks"
+    ]
+  },
+  {
+    "title": "Psychology Therapies and Interventions that Raise Subjective Well-Being",
+    "start_page": 741,
+    "file": "50-psychology-therapies-and-interventions-that-raise-subjective.html",
+    "authors": [
+      "Philip I. Chow"
+    ],
+    "author_lastnames": [
+      "Chow"
+    ]
+  },
+  {
+    "title": "Stress Management Interventions: Improving Subjective Psychological Well-Being in the Workplace",
+    "start_page": 754,
+    "file": "51-stress.html",
+    "authors": [
+      "David Holman",
+      "Sheena Johnson",
+      "Eoin O'Connor"
+    ],
+    "author_lastnames": [
+      "Holman",
+      "Johnson",
+      "O'Connor"
+    ]
+  },
+  {
+    "title": "Predictors of Subjective Well-Being Across Cultures",
+    "start_page": 768,
+    "file": "52-predictors-of-subjective-well-being-across-cultures.html",
+    "authors": [
+      "Eunkook M. Suh",
+      "Sangmi Choi"
+    ],
+    "author_lastnames": [
+      "Suh",
+      "Choi"
+    ]
+  },
+  {
+    "title": "Subjective Well-Being in Nations",
+    "start_page": 780,
+    "file": "53-subjective-well-being-in-nations.html",
+    "authors": [
+      "Ruut Veenhoven"
+    ],
+    "author_lastnames": [
+      "Veenhoven"
+    ]
+  },
+  {
+    "title": "Culture and Subjective Well-Being: Conceptual and Measurement Issues",
+    "start_page": 795,
+    "file": "54-culture.html",
+    "authors": [
+      "Shigehiro Oishi"
+    ],
+    "author_lastnames": [
+      "Oishi"
+    ]
+  },
+  {
+    "title": "The Subjective Well-Being of Small Societies",
+    "start_page": 810,
+    "file": "55-the-subjective-well-being-of-small-societies.html",
+    "authors": [
+      "Robert Biswas-Diener"
+    ],
+    "author_lastnames": [
+      "Biswas-Diener"
+    ]
+  },
+  {
+    "title": "Materialism and Living Well",
+    "start_page": 821,
+    "file": "56-materialism-and-living-well.html",
+    "authors": [
+      "Tim Kasser"
+    ],
+    "author_lastnames": [
+      "Kasser"
+    ]
+  },
+  {
+    "title": "Values and Subjective Well-Being",
+    "start_page": 833,
+    "file": "57-values-and-subjective-well-being.html",
+    "authors": [
+      "Shalom H. Schwartz",
+      "Florencia M. Sortheix"
+    ],
+    "author_lastnames": [
+      "Schwartz",
+      "Sortheix"
+    ]
+  },
+  {
+    "title": "Happiness comes Naturally: Engagement with Nature as a Route to Positive Subjective Well-Being",
+    "start_page": 849,
+    "file": "58-happiness-comes-naturally-engagement-with-nature-as-a-route.html",
+    "authors": [
+      "Ethan A. McMahan"
+    ],
+    "author_lastnames": [
+      "McMahan"
+    ]
+  },
+  {
+    "title": "Geographical Variation in Subjective Well-Being",
+    "start_page": 866,
+    "file": "59-geographical-variation-in-subjective-well-being.html",
+    "authors": [
+      "Peter Jason Rentfrow"
+    ],
+    "author_lastnames": [
+      "Rentfrow"
+    ]
+  },
+  {
+    "title": "The Psychology of Life Balance",
+    "start_page": 876,
+    "file": "60-the-psychology-of-life-balance.html",
+    "authors": [
+      "M. Joseph Sirgy",
+      "Dong-Jin Lee"
+    ],
+    "author_lastnames": [
+      "Sirgy",
+      "Lee"
+    ]
+  },
+  {
+    "title": "Subjective Well-Being and the Law",
+    "start_page": 894,
+    "file": "61-subjective-well-being-and-the-law.html",
+    "authors": [
+      "Peter H. Huang"
+    ],
+    "author_lastnames": [
+      "Huang"
+    ]
+  },
+  {
+    "title": "How Political Systems and Social Welfare Policies Affect Well- being",
+    "start_page": 907,
+    "file": "62-how-political-systems-and-social-welfare-policies-affect-well.html",
+    "authors": [
+      "Robert MacCulloch"
+    ],
+    "author_lastnames": [
+      "MacCulloch"
+    ]
+  },
+  {
+    "title": "Subjective Well-Being and Public Policy",
+    "start_page": 916,
+    "file": "63-subjective-well-being-and-public-policy.html",
+    "authors": [
+      "Reto Odermatt",
+      "Alois Stutzer"
+    ],
+    "author_lastnames": [
+      "Odermatt",
+      "Stutzer"
+    ]
+  },
+  {
+    "title": "Media Technology and Well-Being: A Complementarity- Interference Model",
+    "start_page": 931,
+    "file": "64-media-technology-and-well-being-a-complementarity.html",
+    "authors": [
+      "Kostadin Kushlev"
+    ],
+    "author_lastnames": [
+      "Kushlev"
+    ]
+  },
+  {
+    "title": "Accounts of Psychological and Emotional Well-Being for Policy Purposes",
+    "start_page": 944,
+    "file": "65-accounts-of-psychological-and-emotional-well-being-for-policy.html",
+    "authors": [
+      "Bob Sim",
+      "Ed Diener"
+    ],
+    "author_lastnames": [
+      "Sim",
+      "Diener"
+    ]
+  }
+]
