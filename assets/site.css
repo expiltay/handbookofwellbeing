@@ -780,7 +780,10 @@ article .footer {
   .hero-meta {
     flex-direction: column;
   }
-  
+  /* Size the Editors/License pills to their content (not the 200px flex-basis,
+     which made them very tall when stacked vertically). */
+  .hero-meta .pill { flex: 0 0 auto; }
+
   .search input { width: 100%; }
   
   .home-left {
