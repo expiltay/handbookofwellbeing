@@ -73,6 +73,9 @@ h1, h2, h3, h4 {
 a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-light); text-decoration: underline; }
 
+/* Images never exceed their container */
+img { max-width: 100%; height: auto; }
+
 /* Skip Link */
 .skip-link {
   position: absolute;
@@ -496,7 +499,14 @@ article.card.content {
   padding: 48px 56px;
   max-width: 100%;
   width: 100%;
+  min-width: 0;
+  overflow-wrap: break-word;
 }
+
+/* Prevent horizontal overflow from long URLs, wide tables, or code */
+article.card.content table { display: block; width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+article.card.content pre { overflow-x: auto; }
+ol.refs li, .badge, .citation { overflow-wrap: anywhere; word-break: break-word; }
 
 article.card.content header {
   margin-bottom: 32px;
@@ -723,9 +733,11 @@ article .footer {
     max-width: 800px;
   }
   
+  /* Hide the "On this page" sidebar on mobile/tablet — the header already
+     provides chapter navigation, and the per-chapter section list was
+     cluttering the top of every page. */
   aside.card.toc {
-    position: static;
-    max-height: none;
+    display: none;
   }
   
   article.card.content {
@@ -741,20 +753,22 @@ article .footer {
   
   .header-inner {
     padding: 12px 16px;
-    flex-wrap: wrap;
-    gap: 8px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
   }
-  
+
   .brand small { display: none; }
-  
-  .nav { 
+
+  /* Actions on their own full-width row, evenly spaced (not crammed top-right) */
+  .nav {
+    width: 100%;
     gap: 4px;
-    justify-content: flex-end;
-    flex: 1;
+    justify-content: space-between;
   }
-  .nav a { 
-    padding: 6px 10px; 
-    font-size: 0.8rem; 
+  .nav a {
+    padding: 7px 10px;
+    font-size: 0.82rem;
   }
   
   .hero {
